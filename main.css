@@ -1,0 +1,586 @@
+                            /*Code by Namratha Prabhu(jadrn047)*/
+
+                            /* Montreal main page CSS */
+
+h1 {
+	color: #29293d;
+	text-align: center;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 50px;
+}
+.h2colorhome {
+	color: #29293d;
+	font-weight: bold;
+	margin-left: 10px;
+}
+.content {
+    
+    margin-top: 100px;
+    width: 1000px;
+    color: #3e2914;
+    margin-left: 135px;
+}
+a {
+	text-decoration: none;
+	color:white;
+}
+.atag1 {
+    float: left;
+	font-size: 15px;
+	margin-left: 60px;
+	margin-top: 10px;
+	color: white;
+	background-color: #666699;
+	border: 1px solid #666699;
+	border-radius: 2em;
+	padding: 10px 20px 10px 20px;
+	font-family: 'Ubuntu', sans-serif;
+}
+.ataga1 {
+    background-color: white;
+	margin-left: 60px;	
+}
+.atag1:hover {
+	background-color: white;
+	color: black;
+}
+body {
+	background: url("https://www.roughguides.com/wp-content/uploads/2014/09/Edited-3.-Montreal-AWL_CA04115-1680x1050.jpg") no-repeat center center fixed;
+  
+  min-width: 100%;
+  min-height: 100%;
+  max-width: 1000px;
+}
+.bodyhome {
+	max-width:1000px;
+}
+#block {
+	width: 100%;
+	height: 150px;
+	margin: auto;
+	margin-bottom: 20px;
+	border: 3px; 
+	margin-top: 50px;
+	padding: 20px;
+    background-color: #e6f2ff;
+    opacity: 0.8;
+}
+.heading2 {
+	text-align: center;
+	font-family: 'Ubuntu', sans-serif;
+	padding-top: 10px; 
+	font-size: 30px;
+	font-weight: bold;
+    margin-top: 3px;
+}
+.paragraph 
+{
+    opacity: 0.8;
+    padding: 30px 50px;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 17px;
+	text-align: justify;
+    text-justify: inter-word;
+    color: black;
+    margin:20px;
+    font-weight: bold;
+    background-color: white;
+}
+td {
+	padding-top: 0;
+	margin-top: 0;
+	margin-left: 20px;
+}
+th {
+	padding-top: 15px;
+}
+.lists {
+	font-size: 15px;
+}
+.listheading {
+	font-size: 20px;
+	font-weight: bold;
+	font-family: 'Ubuntu', sans-serif;
+	color: #696969;
+}
+
+
+                               /* History page CSS */
+
+.bodyhistory {
+   background-image: url("https://i.pinimg.com/736x/d9/48/59/d94859a21a648a7ad58df031019b0164--photos-vintage-historical-photos.jpg");
+    width: 1000px;
+    background-size: cover;
+
+}
+#blockhistory {
+	width: 1000px;
+	height: 900px;
+	margin: auto;
+	margin-bottom: 20px;
+	border: 3px; 
+	margin-top: 130px;
+	padding: 50px;
+    background-color: white;
+    opacity: 0.9;
+	}
+.atag2 {
+    float: left;
+	font-size: 15px;
+	margin-left: 60px;
+	margin-top: 10px;
+	color: white;
+	background-color: #666699;
+	border: 1px solid #666699;
+	border-radius: 2em;
+	padding: 10px 20px 10px 20px;
+	font-family: 'Ubuntu', sans-serif;
+}
+.ataga2 {
+    background-color: white;
+	margin-left: 60px;	
+}
+.atag2:hover {
+	background-color: white;
+	color: black;
+}
+
+#history1 {
+text-align: center;
+margin-left: 30px;
+}
+
+.listhistory {
+	font-size: 20px;
+	font-weight: bold;
+	font-family: 'Ubuntu', sans-serif;
+	color: #696969;
+}
+
+.historycontent {
+	text-align: justify;
+    text-justify: inter-word;
+    font-size: 17px;
+    font-family: 'Ubuntu', sans-serif;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 30px;
+}
+.h1history{
+	color:#444444;
+}
+.h2colorhistory {
+	color: #767676;
+}
+#colorparahis {
+	color: #767676;
+}
+.heading1 {
+	color: #3e2914;
+	text-align: center;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 50px;
+}
+.headinghistory {
+	color: #332900;
+	text-align: center;
+	font-family: 'Ubuntu', sans-serif;
+	padding-top: 10px; 
+	font-size: 30px;
+	font-weight: bold;
+	padding-top: 50px;
+
+}
+
+.photosize1 {
+	 width: 290px;
+	height: 210px;
+	padding-top: 2px;
+	
+	float: left;
+	margin-left: 100px;
+}
+
+.photosize {
+	 width: 290px;
+	height: 210px;
+	padding-top: 2px;
+	
+	float: left;
+	margin-left: 30px;
+}
+
+.photosize2 {
+	 width: 290px;
+	height: 210px;
+	padding-top: 2px;
+	
+	
+	margin-left: 30px;
+}
+
+.align {
+	text-align: center;
+	font-size: 15px;
+	font-family: 'Ubuntu', sans-serif;
+	color: #808080;
+	
+}
+
+.imagelist {
+	float: left;
+}
+                         /* Neighborhood CSS*/
+
+.anchortag {
+	float: left;
+	font-size: 15px;
+	margin-left: 60px;
+	margin-top: 40px;
+	color:  #4d3319;
+	background-color: white;
+	border: 1px solid white;
+	border-radius: 2em;
+	padding: 10px 20px 10px 20px;
+	font-family: 'Ubuntu', sans-serif;
+}
+.anchortag1 {
+    background-color: white;
+	margin-left: 60px;	
+}
+
+.anchortag:hover {
+	background-color: #4d3319;
+	color: white;
+}
+#bodyneighborhood   
+{
+	background-image: url("http://mariefrancevachon.com/files/cache/3f94af428233180060aae1560df31baa_f18.jpg");
+    max-width: 1000px;
+    background-size: cover;
+}                         
+
+.h2colorneigh {
+color: #806000;
+}
+
+.headingneigh {
+
+	text-align: center;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 50px;
+	margin: 0;
+} 
+.paragraphneigh {
+	text-align: justify;
+    text-justify: inter-word;
+    font-size: 17px;
+    font-family: 'Ubuntu', sans-serif;
+    color: #806000;
+    margin-left: 15px;
+margin-right: 50px;
+margin-top: 5px;
+}
+
+.h1index {
+	color: #4d3319;
+}
+
+.listneigh {
+font-size: 20px;
+	font-weight: bold;
+	font-family: 'Ubuntu', sans-serif;
+	color: #4d3319;
+}
+
+#blockneigh {
+    width: 1000px;
+	height: 1300px;
+	margin: auto;
+	margin-bottom: 20px;
+	border: 3px; 
+	margin-top: 100px;
+	padding: 50px;
+    background-color: #fff9e6;
+    opacity: 0.9;
+}
+.photosizeneigh {
+	width: 300px;
+	height: 200px;
+	padding-top: 0px;
+	padding-left: 15px;
+	float: right;
+	margin-left: 20px;
+}
+.contneigh {
+	margin-top: 20px;
+}
+
+
+                       /* Arts and architecture CSS*/
+
+#bodyarts {
+    background-image: url("https://www.bordersofadventure.com/wp-content/uploads/2014/03/photo-5.jpg");
+    width: 1000px;
+    background-size: cover; 	
+}
+#blockarts {
+	width: 100%;
+	height: 1550px;
+	margin: auto;
+	margin-bottom: 20px;
+	border: 3px; 
+	margin-top: 50px;
+	padding: 20px;
+    background-color: #ffebcc;
+    opacity: 0.85;
+}
+.atag4 {
+    float: left;
+	font-size: 15px;
+	margin-left: 60px;
+	margin-top: 10px;
+	color: #696969;
+	background-color: white;
+	border: 1px solid white;
+	border-radius: 2em;
+	padding: 10px 20px 10px 20px;
+	font-family: 'Ubuntu', sans-serif;
+}
+.ataga4 {
+    background-color: white;
+	margin-left: 60px;	
+}
+.atag4:hover {
+	background-color: #ffb84d;
+	color: white;
+}
+.h2colorarts{
+	color:#484848 ;
+	font-weight: bold;
+}
+.headingartsmon {
+	color: white;
+	text-align: center;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 50px;
+}
+.artsp1 {
+	margin-top: 40px;
+	width: 1100px;
+	align-content: center;
+	margin-left: 55px; 
+}
+.artscontent {
+	text-align: justify;
+    text-justify: inter-word;
+    font-size: 17px;
+    color: #696969;
+    font-family: 'Ubuntu', sans-serif;
+}
+#table1arts {
+	position: relative;
+	width: 100px;
+}
+#table1arts {
+    position: absolute;
+    top: 580px;
+    left: 70px;
+}
+#table2artsimg2 {
+	position: relative;
+	width: 100px;
+}
+#table2artsimg2 {
+    position: absolute;
+    top: 830px;
+    left: 70px;
+}
+#artlist {
+    position: relative;
+	width: 1100px;
+}
+#artlist {
+	position: absolute;
+    top: 1120px;
+    left: 80px;
+}
+.photosizearts {
+    width: 260px;
+	height: 200px;
+	padding-top: 25px;
+	padding-left: 15px;
+}
+
+                         /* must see sites CSS*/
+
+
+.bodymust {
+background-image: url("https://c2.staticflickr.com/4/3606/3449623522_35802e3e32_z.jpg?zz=1");
+    width: 1000px;
+    background-size: cover; 
+}
+.atag5 {
+    float: left;
+	font-size: 15px;
+	margin-left: 60px;
+	margin-top: 10px;
+	color: black;
+	background-color: white;
+	border: 1px solid white;
+	border-radius: 2em;
+	padding: 10px 20px 10px 20px;
+	font-family: 'Ubuntu', sans-serif;
+}
+.ataga5 {
+    background-color: white;
+	margin-left: 60px;	
+}
+.atag5:hover {
+	background-color: black;
+	color: white;
+}
+
+.h2colormust {
+	color:white;
+}
+
+#blockmust {
+	width: 800px;
+	height: 1950px;
+	margin: auto;
+	margin-top: 60px;
+	border: 3px; 
+	
+	padding: 50px;
+    background-color: #D3D3D3;
+   
+}
+
+.imgmust {
+	width: 300px;
+	height: auto;
+	display: block;
+    margin: auto;
+}
+
+.mustcontent {
+	text-align: justify;
+    text-justify: inter-word;
+    font-size: 17px;
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    margin-top: 10px;
+    width: 800px;
+    /*float: left;*/
+}
+
+.listmust {
+	font-size: 20px;
+	font-weight: bold;
+	font-family: 'Ubuntu', sans-serif;
+	color: white;
+	
+}
+
+/* Food and Restaurants */
+
+.bodyfood {
+background-image: url("https://imagesvc.timeincapp.com/v3/mm/image?url=http%3A%2F%2Fcdn-image.travelandleisure.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F1600x1000%2Fpublic%2F1502139145%2Ffoxy-restaurant-sud-ouest-montreal-canada-SUDOUESTEATS0817.jpg%3Fitok%3D1ca3C0bl&w=700&q=60");
+    max-width: 1000px;
+    background-size: cover; 
+
+}
+
+#blockfood {
+	width:1000px;
+	height: 1500px;
+	margin: auto;
+	margin-bottom: 20px;
+	border: 3px; 
+	margin-top: 100px;
+	padding: 50px;
+    background-color: #fff9e6;
+    opacity: 0.9;
+}
+
+.atag6 {
+    float: left;
+	font-size: 15px;
+	margin-left: 60px;
+	margin-top: 10px;
+	color: black;
+	background-color: white;
+	border: 1px solid white;
+	border-radius: 2em;
+	padding: 10px 20px 10px 20px;
+	font-family: 'Ubuntu', sans-serif;
+}
+.ataga6 {
+    background-color: white;
+	margin-left: 50px;	
+}
+.atag6:hover {
+	background-color: black;
+	color: white;
+}
+.imgfood {
+	width: 300px;
+	height: auto;
+	display: block;
+    /*float: left;*/
+    margin-top: 10px;
+    float: right;
+    /*margin-left: 30px;*/
+    margin-left: 20px;
+    margin-top: 0px;
+
+}
+
+#color {
+	color: #3A3A3A;
+	font-weight: bold;
+
+}
+
+.address {
+	
+	margin-left: 20px;
+	font-size: 17px;
+	font-family: 'Ubuntu', sans-serif;
+	color: #6C6C6C;
+	margin-top: 0px;
+
+}
+
+span {
+	font-weight: bold;
+}
+
+.listfood {
+
+	font-size: 25px;
+	font-weight: bold;
+	font-family: 'Ubuntu', sans-serif;
+	color: #444444;
+	margin-top: 50px;
+}
+
+.foodconcolor {
+	font-size: 17px;
+	font-family: 'Ubuntu', sans-serif;
+	color: white;
+}
+
+.parafood {
+	text-align: justify;
+    text-justify: inter-word;
+    font-size: 17px;
+    font-family: 'Ubuntu', sans-serif;
+    color: #6C6C6C;
+    margin-left: 15px;
+margin-right: 50px;
+margin-top: 15px;
+padding: 0px;
+width: 650px;
+}
